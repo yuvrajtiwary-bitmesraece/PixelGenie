@@ -27,7 +27,7 @@ PixelGenie is a powerful image synthesis and transformation toolkit that combine
 
 ## Folder Structure
 ```
-SmartSignalAI/
+PixelGenie/
 │
 ├── Main Colab Notebook
 ├── Plots
